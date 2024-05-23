@@ -5,3 +5,8 @@ The title of the thesis that explored this was: "Type 2 Diabetes Prediction Usin
 
 The data used for this research is the Whitehall II data, which is not publicly available. The code made available in this repository functions as a guideline to replicate the proposed method using different data. The automated feature engineering (AFE) notebook shows how AFE was applied, and how the correct data types were assigned. 
 
+The order in which I used the notebooks is:
+1. data_set_creation
+2. data_cleaning
+3. automated_feature_engineering
+4. LogisticRegression & XGBoost
